@@ -1,0 +1,56 @@
+{
+  "last_pay_date": "August 31",
+  "pay_period": "August 15 - August 31",
+  "net_pay": "3,008.32",
+  "earnings_total": "5,188.40",
+  "earnings": [
+    {
+      "name": "Regular Pay",
+      "amount": "4,969.236"
+    },
+    {
+      "name": "Commission",
+      "amount": "118.00"
+    },
+    {
+      "name": "Bonus",
+      "amount": "100"
+    }
+  ],
+  "deducations_total": "910.57",
+  "deductions": [
+    {
+      "name": "Health Care SA",
+      "amount": "165.92"
+    },
+    {
+      "name": "Dep Care SA",
+      "amount": "34.00"
+    },
+    {
+      "name": "Dental PPO Plan",
+      "amount": "4.36"
+    },
+    {
+      "name": "Child Support",
+      "amount": "587.96"
+    }
+  ],
+  "taxes_total": "1,269.73",
+  "taxes": [
+    {
+      "name": "Employee Medicare",
+      "amount": "71.65"
+    },
+    {
+      "name": "Federal Income Tax",
+      "amount": "891.69"
+    },
+    {
+      "name": "Social Security Income Tax",
+      "amount": "306.38"
+    }
+  ],
+  "previous_period": "Aug 1 - Aug 14",
+  "next_period": "Sep 1 - Sep 12"
+}

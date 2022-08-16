@@ -1,0 +1,35 @@
+{
+  "meals": [
+    {
+      "dish": "Pasta Primavera",
+      "cost": 4.95,
+      "cuisine": "vegan",
+      "description": "A healthy spaghetti dish full of broad beans, leeks and asparagus tips. Make the most of spring greens with this vibrant, filling pasta recipe.",
+      "image_URL": "https://cdn.pixabay.com/photo/2016/11/23/18/31/pasta-1854245_1280.jpg"
+    },
+    {
+      "dish": "Pizza Hawaii",
+      "cost": 6.15,
+      "cuisine": "normal",
+      "description": "Hawaiian pizza is a pizza originating in Canada, and is traditionally topped with pineapple, tomato sauce, cheese, and either ham or bacon.",
+      "image_URL": "https://cdn.pixabay.com/photo/2016/04/14/19/56/pizza-hawaiian-1329621__480.jpg"
+    },
+    {
+      "dish": "Superfood Sloppyjoes",
+      "cost": 5.2,
+      "cuisine": "vegetarian",
+      "description": "A simple American staple consisting of minced beef and melty cheese in a burger bun. Add a dash of spicy chipotle or smoky barbecue sauce for some zing.",
+      "image_URL": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/diner-sloppy-joes-6161e37.jpg"
+    },
+    {
+      "dish": "Wild Salmon",
+      "cost": 8.15,
+      "cuisine": "normal",
+      "description": "Enjoy this flavourful dish of salmon in a smoked paprika, cinnamon and orange zest coating. It works beautifully with a slaw made from potatoes, red peppers, radishes and oranges",
+      "image_URL": "https://cdn.pixabay.com/photo/2014/11/05/15/57/salmon-518032_1280.jpg"
+    }
+  ],
+  "cafeteria_name": "Café Contoso",
+  "opening_hours": "Today 11am - 3.15pm",
+  "busy": "Not very busy"
+}

@@ -1,0 +1,40 @@
+{
+  "holidays-this-year": [
+    {
+      "name": "Veterans Day",
+      "date": "Fri, Nov 11"
+    },
+    {
+      "name": "Thanksgiving",
+      "date": "Thu, Nov 24"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "Mon, Dec 26"
+    }
+  ],
+  "holidays-next-year": [
+    {
+      "name": "New Year's Day",
+      "date": "Mon, Jan 2"
+    },
+    {
+      "name": "Martin Luther King Jr. Day",
+      "date": "Mon, Jan 16"
+    },
+    {
+      "name": "Washington's Birthday",
+      "date": "Thu, Feb 20"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "Mon, May 29"
+    },
+    {
+      "name": "Juneteenth",
+      "date": "Mon, Jun 19"
+    }
+  ],
+  "next_holiday": "Veterans Day",
+  "next_holiday_date": "Mon, Nov 11"
+}
