@@ -17,7 +17,7 @@
       "amount": "100"
     }
   ],
-  "deducations_total": "910.57",
+  "deductions_total": "910.57",
   "deductions": [
     {
       "name": "Health Care SA",
@@ -51,6 +51,6 @@
       "amount": "306.38"
     }
   ],
-  "previous_period": "Aug 1 - Aug 14",
-  "next_period": "Sep 1 - Sep 12"
+  "previous_period": "Aug 1 - 14",
+  "next_period": "Sep 1 - 12"
 }
