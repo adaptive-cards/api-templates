@@ -1,5 +1,5 @@
 {
-  "holidays-this-year": [
+  "holidays_this_year": [
     {
       "name": "Veterans Day",
       "date": "Fri, Nov 11"
@@ -13,7 +13,7 @@
       "date": "Mon, Dec 26"
     }
   ],
-  "holidays-next-year": [
+  "holidays_next_year": [
     {
       "name": "New Year's Day",
       "date": "Mon, Jan 2"
