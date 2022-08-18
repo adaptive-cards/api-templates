@@ -1,13 +1,13 @@
 {
   "events": [
     {
-      "title": "Town Hall with the CEO",
+      "title": "Townhall with the CEO",
       "date": "Fri, Aug 19 at 11.30am",
       "description": "In this live Q-and-A session the CEO of Toaster Inc. will take questions sent in beforehand to townhall@toastergroup.com or questions submitted live during the event.",
       "thumbnail": "https://cdn.pixabay.com/photo/2019/12/17/17/09/woman-4702060_1280.jpg"
     },
     {
-      "title": "Chat and coffee",
+      "title": "Chat and Coffee",
       "date": "Mon, Aug 22 at 8.45am",
       "description": "Join this 30-minute chat to share something meaningful that happened in your live over the weekend, it can be a child's graduation, a new pet or anything you draw inspiration from for the week.",
       "thumbnail": "https://images.unsplash.com/photo-1616587894289-86480e533129?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
@@ -31,7 +31,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     },
     {
-      "title": "Lunch time Vinyasa Yoga",
+      "title": "Lunchtime Vinyasa Yoga",
       "date": "Tue, Aug 23 at 12pm",
       "description": "Unwind for a moment and strengthen your flow with Courtney's smooth and fluid Asanas that you can follow from your own living room or from the office.",
       "thumbnail": "https://cdn.pixabay.com/photo/2018/01/01/01/57/woman-3053489_1280.jpg"
@@ -43,16 +43,16 @@
       "thumbnail": "https://cdn.pixabay.com/photo/2015/12/05/11/04/bread-1077984_1280.jpg"
     },
     {
-      "title": "Healtcare Benefits",
+      "title": "Toaster Inc. healthcare benefits",
       "date": "Tue, Aug 23 at 2.30pm",
       "description": "Peter Harrison, HR director, explains how to access all your health plan benefits, minimize your families' co-payments and answers your questions.",
       "thumbnail": "https://cdn.pixabay.com/photo/2018/08/22/19/27/nurse-3624461_1280.jpg"
     },
     {
-      "title": "How we brought tea kettles to the US",
+      "title": "How we brought electric tea kettles to the US",
       "date": "Wed, Aug 24 at 10.30am",
       "description": "Long a stable in British kitchens, the US has shunned tea kettles in lieu of microwaving their water. How did Toaster Inc's culture singlehandedly change the nation?",
-      "thumbnail": "https://images.unsplash.com/photo-1594409060643-5643ef18a236?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+      "thumbnail": "https://images.unsplash.com/photo-1571552879083-e93b6ea70d1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
     }
   ]
 }
