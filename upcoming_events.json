@@ -1,0 +1,58 @@
+{
+  "events": [
+    {
+      "title": "Town Hall with the CEO",
+      "date": "Fri, Aug 19 at 11.30am",
+      "description": "In this live Q-and-A session the CEO of Toaster Inc. will take questions sent in beforehand to townhall@toastergroup.com or questions submitted live during the event.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2019/12/17/17/09/woman-4702060_1280.jpg"
+    },
+    {
+      "title": "Chat and coffee",
+      "date": "Mon, Aug 22 at 8.45am",
+      "description": "Join this 30-minute chat to share something meaningful that happened in your live over the weekend, it can be a child's graduation, a new pet or anything you draw inspiration from for the week.",
+      "thumbnail": "https://images.unsplash.com/photo-1616587894289-86480e533129?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "title": "Technology and Data",
+      "date": "Mon, Aug 22 at 11am",
+      "description": "Marissa from Network Ops shares with you best practices to improve your Excel skills, organize your tasks, collect your teams ideas and better manage your day.",
+      "thumbnail": "https://images.unsplash.com/photo-1573497620053-ea5300f94f21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "title": "Leadership and Ideation",
+      "date": "Mon, Aug 22 at 3pm",
+      "description": "John Munro explains how Toaster Inc's culture has earned it's reputation for being mindful of new ideas, and continously improve production and development structures.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2017/08/02/00/49/people-2569234_1280.jpg"
+    },
+    {
+      "title": "We're not selling Toasters",
+      "date": "Tue, Aug 23 at 10am",
+      "description": "...but we're selling a breakfast experience. At this rountable, you can learn from Katie why this profound change in thinking creates products without competition.",
+      "thumbnail": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+    },
+    {
+      "title": "Lunch time Vinyasa Yoga",
+      "date": "Tue, Aug 23 at 12pm",
+      "description": "Unwind for a moment and strengthen your flow with Courtney's smooth and fluid Asanas that you can follow from your own living room or from the office.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/01/01/01/57/woman-3053489_1280.jpg"
+    },
+    {
+      "title": "Make the perfect toast",
+      "date": "Tue, Aug 23 at 12pm",
+      "description": "Product developer Henry teaches you how to make the perfect breakfast slice and why Toster Inc's patented roast dial took six years of development.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2015/12/05/11/04/bread-1077984_1280.jpg"
+    },
+    {
+      "title": "Healtcare Benefits",
+      "date": "Tue, Aug 23 at 2.30pm",
+      "description": "Peter Harrison, HR director, explains how to access all your health plan benefits, minimize your families' co-payments and answers your questions.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/08/22/19/27/nurse-3624461_1280.jpg"
+    },
+    {
+      "title": "How we brought tea kettles to the US",
+      "date": "Wed, Aug 24 at 10.30am",
+      "description": "Long a stable in British kitchens, the US has shunned tea kettles in lieu of microwaving their water. How did Toaster Inc's culture singlehandedly change the nation?",
+      "thumbnail": "https://images.unsplash.com/photo-1594409060643-5643ef18a236?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+    }
+  ]
+}
