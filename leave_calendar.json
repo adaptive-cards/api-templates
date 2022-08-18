@@ -3,27 +3,32 @@
     {
       "employee": "Faizaan Ali",
       "avatar_URL": "https://demo.adenin.com/dm/50/1015133-Picture.jpg?8/18/2022%2011:44:52%20PM",
-      "date_range": "Aug 14-16"
+      "date_range": "Aug 14-16",
+      "job_title": "Purchasing Manager"
     },
     {
       "employee": "Robert Johnson",
       "avatar_URL": "https://demo.adenin.com/dm/50/1015131-Picture.jpg?8/18/2022%2011:45:49%20PM",
-      "date_range": "Aug 16"
+      "date_range": "Aug 16",
+      "job_title": "Corp. Counsel"
     },
     {
       "employee": "Shirley E Hawthorne",
       "avatar_URL": "https://demo.adenin.com/dm/50/1016872-Picture.jpg?8/18/2022%2011:46:19%20PM",
-      "date_range": "Aug 19-26"
+      "date_range": "Aug 19-26",
+      "job_title": "Senior Consultant"
     },
     {
-      "employee": "Helen Knott",
-      "avatar_URL": "https://demo.adenin.com/dm/50/1019993-Picture.jpg?8/18/2022%2011:47:23%20PM",
-      "date_range": "vegan"
+      "employee": "Anna Larsen",
+      "avatar_URL": "https://demo.adenin.com/dm/50/1015122-Picture.jpg?8/18/2022%2011:56:58%20PM",
+      "date_range": "Aug 22-23",
+      "job_title": "General Counsel"
     },
     {
       "employee": "Maria Noor",
       "avatar_URL": "https://demo.adenin.com/dm/50/1015124-Picture.jpg?8/18/2022%2011:47:53%20PM",
-      "date_range": "Aug 22-29"
+      "date_range": "Aug 22-29",
+      "job_title": "Staffing Coordinator"
     }
   ],
   "month_name": "August 2022"
