@@ -1,7 +1,6 @@
 {
-  "cafeteria_name": "Crumb Café",
-  "opening_hours": "Today 11am - 3pm",
-  "busy": "A little busy",
+  "name": "Caroline",
+  "company_name": "Today 11am - 3pm",
   "steps": [
     {
       "step": "1",
