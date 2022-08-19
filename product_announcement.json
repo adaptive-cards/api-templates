@@ -1,0 +1,51 @@
+{
+  "product": "New cookbook \"Toastally delicious recipes\"",
+  "description": "Our resident chef, Karina Gaellic, has just announced her latest cookbook which is published by Toaster Inc. Containing over 45 recipes that can be made using just a toaster, there are sure to be amazing recipes that impress your friends and family.",
+  "available": "Available this fall",
+  "price": "$21.95",
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1613221699807-4940ba9b83f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1985&q=80",
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1587015566802-5dc157c901cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=986&q=80",
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1615478503562-ec2d8aa0e24e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1615832494873-b0c52d519696?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
+    }
+  ],
+  "feature-1": {
+      "icon": "https://images.unsplash.com/photo-1613221699807-4940ba9b83f4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1985&q=80",
+      "name": "Novice friendly",
+      "description": "All recipes require lass than 15 minutes prep time"
+    },
+  "specs": [
+    {
+      "name": "Pages",
+      "stat": "180"
+    },
+    {
+      "name": "Recipes",
+      "stat": "45"
+    },
+    {
+      "name": "Difficulty range",
+      "stat": "Easy to medium"
+    },
+    {
+      "name": "Equipment required",
+      "stat": "Toaster, nerves"
+    },
+    {
+      "name": "Available as",
+      "stat": "Hardcover"
+    },
+    {
+      "name": "ISBN",
+      "stat": "7 8412 87995 4978 66"
+    }
+  ]
+}
