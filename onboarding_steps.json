@@ -1,0 +1,58 @@
+{
+  "cafeteria_name": "Crumb Café",
+  "opening_hours": "Today 11am - 3pm",
+  "busy": "A little busy",
+  "steps": [
+    {
+      "step": "1",
+      "title": "Set up your profile",
+      "description": "In the Employee Directory you can set your display name, preferred contact methods, avatar for all services, usual working hours, etc.",
+      "button_label": "Set up my profile",
+      "button_link": "https://www.adenin.com/pocdef",
+      "app_icon": "https://www.adenin.com/assets/images/wp-images/logo/workday.png"
+    },
+    {
+      "step": "2",
+      "title": "Join your local groups",
+      "description": "On Yammer we have a number of groups from your local office and region that you may want to join to get to know your colleagues.",
+      "button_label": "Join local groups",
+      "button_link": "https://www.adenin.com/pocdef",
+      "app_icon": "https://www.adenin.com/assets/images/wp-images/logo/yammer.png"
+    }
+    {
+      "step": "3",
+      "title": "Create an email signature",
+      "description": "We have a variety of email signatures you can choose from to help colleagues and customers get to know you quickly.",
+      "button_label": "Choose signature",
+      "button_link": "https://www.adenin.com/pocdef",
+      "app_icon": "https://www.adenin.com/assets/images/wp-images/logo/outlook.png"
+    }
+  ],
+  "useful_links": [
+    {
+      "link_icon": "https://www.adenin.com/assets/images/wp-images/logo/office-365.png",
+      "link_label": "Download Office apps to your smartphone",
+      "link_href": "https://www.adenin.com/pocdef"
+    },
+    {
+      "link_icon": "https://www.adenin.com/assets/images/identity/Logo_adenin_round.png",
+      "link_label": "Explore other Cards you can add to your Board",
+      "link_href": "https://www.adenin.com/pocdef"
+    },
+    {
+      "link_icon": "https://www.adenin.com/assets/images/wp-images/logo/cisco-webex.png",
+      "link_label": "Enable the Digital Assistant chatbot in Webex",
+      "link_href": "vegan"
+    },
+    {
+      "link_icon": "https://www.adenin.com/assets/images/identity/Logo_adenin_round.png",
+      "link_label": "Find your nearest cafeteria",
+      "link_href": "https://www.adenin.com/pocdef"
+    },
+    {
+      "link_icon": "https://www.adenin.com/assets/images/wp-images/logo/sharepoint.png",      
+      "link_label": "Read the Employee Handbook",
+      "link_href": "https://www.adenin.com/pocdef"
+    }
+  ]
+}
