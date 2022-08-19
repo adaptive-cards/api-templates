@@ -1,6 +1,7 @@
 {
   "name": "Caroline",
-  "company_name": "Today 11am - 3pm",
+  "company_name": "Toaster Inc",
+  "contact_hr": "https://www.adenin.com/pocdef",
   "steps": [
     {
       "step": "1",
@@ -41,7 +42,7 @@
     {
       "link_icon": "https://www.adenin.com/assets/images/wp-images/logo/cisco-webex.png",
       "link_label": "Enable the Digital Assistant chatbot in Webex",
-      "link_href": "vegan"
+      "link_href": "https://www.adenin.com/pocdef"
     },
     {
       "link_icon": "https://www.adenin.com/assets/images/identity/Logo_adenin_round.png",
