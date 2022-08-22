@@ -9,48 +9,42 @@
       "amount":  1.359000,
       "change": 1.9
   },
-  "items": [
+  "products": [
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_keyboard.svg",
-              "name": "Surface Pro Signature Keyboard",
-              "amount": "56k",
-              "change": "+11k"
+              "image":"https://raw.githubusercontent.com/adaptive-cards/api-templates/main/images/iStock_000005549109XSmall.jpg",
+              "name": "Retro 2-slice toaster",
+              "SKUs": "9.5k",
+              "previous_period": "+2.1 %"
           },
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_pen.svg",
-              "name": "Surface Slim Pen 2",
-              "amount": "4.556k",
-              "change": "-"
+              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000006023672XSmall.jpg?raw=true",
+              "name": "Presto espresso machine",
+              "SKUs": "2.74k",
+              "previous_period": "-0.5 %"
           },
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_a11y.svg",
-              "name": "Surface Adaptive Kit",
-              "amount": "256k",
-              "change": "+3k"
+              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000003895265XSmall.jpg?raw=true",
+              "name": "Deli microwave",
+              "SKUs": "6.58k",
+              "previous_period": "-5.8 %"
           },
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_power.svg",
-              "name": "Surface 23W USB-C Power Supply",
-              "amount": "750k",
-              "change": "+123k"
+              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000001558145XSmall.jpg?raw=true",
+              "name": "Baby Blue Limited Edition",
+              "SKUs": "1.91k",
+              "previous_period": "-12.8 %"
           },
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_earbuds.svg",
-              "name": "Surface Earbuds",
-              "amount": "1,312k",
-              "change": "+423k"
+              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000003617056XSmall.jpg?raw=true",
+              "name": "Mr. Coffee",
+              "SKUs": "3.52k",
+              "previous_period": "+1.7 %"
           },
           {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_cover.svg",
-              "name": "Surface Duo 2 Bumper",
-              "amount": "812k",
-              "change": "+73k"
-          },
-          {
-              "image":"https://raw.githubusercontent.com/pnp/AdaptiveCards-Templates/9f06f6552e9eb40f525ac81ea0e38a79a2239371/samples/inventory/assets/icn_dial.svg",
-              "name": "Surface Dial",
-              "amount": "253",
-              "change": "-24k"
+              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000005301993XSmall.jpg?raw=true",
+              "name": "Commercial 2-slice toaster",
+              "SKUs": "0.54k",
+              "previous_period": "-24.7 %"
           }
   ]
 }
