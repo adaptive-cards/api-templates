@@ -1,50 +1,31 @@
 {
-  "warehouse": "Distribution Center US-East",
-  "location": "Laconia, NH",
-  "available":  {
-      "amount":  29.82,
-      "change": 3.2
-  },
-  "ready": {
-      "amount":  1.359000,
-      "change": 1.9
-  },
-  "products": [
+  "first-name": "Jennifer",
+  "anniversary": "5",
+  "company_name": "Toaster Inc.",
+  "apprecciation_from": [
           {
-              "image":"https://raw.githubusercontent.com/adaptive-cards/api-templates/main/images/iStock_000005549109XSmall.jpg",
-              "name": "Retro 2-slice toaster",
-              "SKUs": "9.5k",
-              "previous_period": "+2.1 %"
+              "avatar":"https://demo.adenin.com/dm/50/1015133-picture.jpg.jpg?"
           },
           {
-              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000006023672XSmall.jpg?raw=true",
-              "name": "Presto espresso machine",
-              "SKUs": "2.74k",
-              "previous_period": "-0.5 %"
+              "avatar":"https://demo.adenin.com/dm/50/1019993-picture.jpg.jpg?"
           },
           {
-              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000003895265XSmall.jpg?raw=true",
-              "name": "Deli microwave",
-              "SKUs": "6.58k",
-              "previous_period": "-5.8 %"
+              "avatar":"https://demo.adenin.com/dm/50/1009740-picture.jpg.jpg?"
           },
           {
-              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000001558145XSmall.jpg?raw=true",
-              "name": "Baby Blue Limited Edition",
-              "SKUs": "1.91k",
-              "previous_period": "-12.8 %"
+              "avatar":"https://demo.adenin.com/dm/50/1015118-picture.jpg.jpg?"
           },
           {
-              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000003617056XSmall.jpg?raw=true",
-              "name": "Mr. Coffee",
-              "SKUs": "3.52k",
-              "previous_period": "+1.7 %"
+              "avatar":"https://demo.adenin.com/dm/50/1009739-picture.jpg.jpg?"
           },
           {
-              "image":"https://github.com/adaptive-cards/api-templates/blob/main/images/iStock_000005301993XSmall.jpg?raw=true",
-              "name": "Commercial 2-slice toaster",
-              "SKUs": "0.54k",
-              "previous_period": "-24.7 %"
+              "avatar":"https://demo.adenin.com/dm/50/1015124-picture.jpg.jpg?"
+          },
+          {
+            "avatar":"https://demo.adenin.com/dm/50/1015113-picture.jpg.jpg?"
+          },
+          {
+            "avatar":"https://demo.adenin.com/dm/50/1015125-picture.jpg.jpg?"
           }
   ]
 }
