@@ -1,0 +1,56 @@
+{
+  "approval": "Expense approval",
+  "status": "Pending",
+  "expense_title": "Digital Hub Project",
+  "expense_id": "S2022-148",
+  "submitted": {
+               "name": "Helen McKallen",
+               "job_title": "Senior Director Employee Services"
+               },
+  "duration": "August 1 - December 31",
+  "submitted_on": "Jan 12",
+  "amounts":  {
+              "total": "45,750",
+              "non_reimbursable": "14,380",
+              "advance": "31,370",
+              "reimbursable": "31,370"
+              },
+  "assigned_to": {
+          "name": "Steve Smith",
+          "job_title": "Chief Financial Officer"
+          },
+  "details": [
+          {
+              "date":"08/01",
+              "title": "Consultation Workshop",
+              "details": "8 workshops of 4 hours each",
+              "amount": "12,450"
+          },
+          {
+            "date":"08/01",
+            "title": "Server provisioning",
+            "details": "Server farm set up for 12 months, data centre East, including 2x Redis clusters",
+            "amount": "18,920"
+          },
+          {
+          "date":"12/31",
+          "title": "Renewal",
+          "details": "Budget for renewal of the license agreement for 3 months of the next FY",
+          "amount": "14,380"
+          }
+  ],
+  "history": [
+    {  
+      "date": "12/01",
+      "item": "Expsense submitted by Helen McKallen"
+    },
+    {  
+      "date": "12/01",
+      "item": "Expense marked as PENDING by automation"
+    },
+    {  
+      "date": "12/01",
+      "item": "Expense assgined to Steve Smith"
+    }
+  ]
+}

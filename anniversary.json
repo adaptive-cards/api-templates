@@ -1,8 +1,8 @@
 {
-  "first-name": "Jennifer",
+  "first_name": "Jennifer",
   "anniversary": "5",
   "company_name": "Toaster Inc.",
-  "apprecciation_from": [
+  "appreciation_from": [
           {
               "avatar":"https://demo.adenin.com/dm/50/1015133-picture.jpg.jpg?"
           },
