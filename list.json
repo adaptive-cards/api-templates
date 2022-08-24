@@ -1,0 +1,47 @@
+{
+    "items": [
+    {
+      "title": "Lorem ipsum dolor set amet",
+      "type": "ticket",
+      "description": "Fusce lacinia erat sed pharetra venenatis. Vestibulum vehicula auctor purus. Nunc ullamcorper metus vel metus mollis, at pulvinar orci venenatis. Nam aliquam in dui ultrices maximus.",
+      "created_time": "Sep 7",
+      "created_by": {
+        "name": "Anna Larsen",
+        "title": "General Counsel",
+        "avatar": "https://demo.adenin.com/dm/50/1015122-picture.jpg.jpg?"
+      },
+      "assigned_to": {
+        "name": "Bob Walden",
+        "title": "Manager Retail",
+        "avatar": "https://demo.adenin.com/dm/50/1015129-picture.jpg.jpg?"
+      },
+      "message": "Morbi pretium, libero sit amet vulputate elementum, lorem massa egestas erat, et ullamcorper sapien quam vitae ex. Nunc mollis magna eu neque malesuada hendrerit. Donec aliquam diam a accumsan volutpat.",
+      "modified_ago": "10",
+      "icon": "5",
+      "image": "https://images.unsplash.com/photo-1518235087758-c0c71f7798ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2529&q=80",
+      "status": "New",
+      "actions": [
+        {
+          "label": "View details",
+          "URL": "https://www.adenin.com/pocdef"
+        },
+        {
+          "label": "Approve",
+          "URL": "https://www.adenin.com/pocdef"
+        },
+        {
+          "label": "Send message",
+          "URL": "https://www.adenin.com/pocdef"
+        },
+        {
+          "label": "Remind me later",
+          "URL": "https://www.adenin.com/pocdef"
+        },
+        {
+          "label": "Mark as resolved",
+          "URL": "https://www.adenin.com/pocdef"
+        }
+      ]
+    }
+  ]
+}
