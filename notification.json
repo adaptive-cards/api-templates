@@ -1,0 +1,23 @@
+{
+  "app": "Hubspot",
+  "icon": "https://www.adenin.com/assets/images/wp-images/logo/salesforce.png",
+  "text": "You have 8 new contacts in your New Queue, the latest of which is **Brandon Cooper** from IBM",
+  "actions": [
+          {
+              "label": "Mark as contacted",
+              "url": "https://www.adenin.com/pocdef"
+          },
+          {
+            "label": "Enrol to Marketing automation",
+            "url": "https://www.adenin.com/pocdef"
+          },
+          {
+            "label": "Remind me again in 2 hours",
+            "url": "https://www.adenin.com/pocdef"
+          },
+          {
+            "label": "Delete contact",
+            "url": "https://www.adenin.com/pocdef"
+          }
+  ]
+}

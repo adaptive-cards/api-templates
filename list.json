@@ -2,7 +2,7 @@
     "items": [
     {
       "title": "Lorem ipsum dolor set amet",
-      "type": "ticket",
+      "id": "19384",
       "description": "Fusce lacinia erat sed pharetra venenatis. Vestibulum vehicula auctor purus. Nunc ullamcorper metus vel metus mollis, at pulvinar orci venenatis. Nam aliquam in dui ultrices maximus.",
       "created_time": "Sep 10",
       "created_by": {
@@ -19,33 +19,11 @@
       "modified_ago": "10 minutes ago",
       "icon": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-api.png",
       "image": "https://images.unsplash.com/photo-1518235087758-c0c71f7798ef?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2529&q=80",
-      "status": "Waiting for reply",
-      "actions": [
-        {
-          "label": "View details",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Approve",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Send message",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Remind me later",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Mark as resolved",
-          "URL": "https://www.adenin.com/pocdef"
-        }
-      ]
+      "status": "Waiting for reply"
     },
     {
       "title": "Proin eleifend velit eu libero blandit",
-      "type": "ticket",
+      "id": "19385",
       "description": "Aenean vulputate ipsum tortor, eget lacinia ante faucibus id. Suspendisse dapibus risus neque, quis faucibus dolor placerat suscipit. Integer varius non dui a feugiat.",
       "created_time": "Sep 8",
       "created_by": {
@@ -62,33 +40,11 @@
       "modified_ago": "4 hours ago",
       "icon": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-api.png",
       "image": "https://images.unsplash.com/photo-1439148359337-2e011813cf8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
-      "status": "New",
-      "actions": [
-        {
-          "label": "View details",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Approve",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Send message",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Remind me later",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Mark as resolved",
-          "URL": "https://www.adenin.com/pocdef"
-        }
-      ]
+      "status": "New"
     },
     {
       "title": "Sed rutrum eget massa sed congue",
-      "type": "ticket",
+      "id": "19387",
       "description": "Nullam leo dui, dictum nec purus et, condimentum vestibulum felis. Suspendisse sed hendrerit magna. Curabitur mattis mi elit, eu fringilla enim aliquam eu. Nam diam mauris, fringilla nec tortor sagittis, placerat euismod urna. Pellentesque non libero est.",
       "created_time": "Sep 2",
       "created_by": {
@@ -105,29 +61,7 @@
       "modified_ago": "3 days ago",
       "icon": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-api.png",
       "image": "https://images.unsplash.com/photo-1503411054375-49f38a0dcd90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
-      "status": "Waiting for feedback",
-      "actions": [
-        {
-          "label": "View details",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Approve",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Send message",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Remind me later",
-          "URL": "https://www.adenin.com/pocdef"
-        },
-        {
-          "label": "Mark as resolved",
-          "URL": "https://www.adenin.com/pocdef"
-        }
-      ]
+      "status": "Waiting for feedback"
     }
   ]
 }
