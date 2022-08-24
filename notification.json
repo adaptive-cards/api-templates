@@ -1,7 +1,23 @@
 {
   "app": "Hubspot",
+  "event": "New contacts in your New Queue",
   "icon": "https://www.adenin.com/assets/images/wp-images/logo/salesforce.png",
-  "text": "You have 8 new contacts in your New Queue, the latest of which is **Brandon Cooper** from IBM",
+  "notification_short": "You have 3 new contacts in your New Queue, the latest of which is **Brandon Cooper** from IBM",
+  "notification_long": "You have the following new contacts in your New Queue, go check them out now",
+  "notification_details": [
+          {
+            "label": "**Brandon Cooper** IBM: Signed up for a presentation",
+            "url": "https://www.adenin.com/pocdef"
+          },
+          {
+            "label": "**Sheridan Bucket** Contoso: Submitted a contact request",
+            "url": "https://www.adenin.com/pocdef"
+          },
+          {
+            "label": "**Tania Heddon** Cisco: Downloaded a whitepaper",
+            "url": "https://www.adenin.com/pocdef"
+          }
+  ],
   "actions": [
           {
               "label": "Mark as contacted",
