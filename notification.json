@@ -1,5 +1,5 @@
 {
-  "app": "Hubspot",
+  "app": "Salesforce",
   "event": "New contacts in your New Queue",
   "icon": "https://www.adenin.com/assets/images/wp-images/logo/salesforce.png",
   "notification_short": "You have 3 new contacts in your New Queue, the latest of which is **Brandon Cooper** from IBM",
@@ -15,24 +15,6 @@
           },
           {
             "label": "**Tania Heddon** Cisco: Downloaded a whitepaper",
-            "url": "https://www.adenin.com/pocdef"
-          }
-  ],
-  "actions": [
-          {
-              "label": "Mark as contacted",
-              "url": "https://www.adenin.com/pocdef"
-          },
-          {
-            "label": "Enrol to Marketing automation",
-            "url": "https://www.adenin.com/pocdef"
-          },
-          {
-            "label": "Remind me again in 2 hours",
-            "url": "https://www.adenin.com/pocdef"
-          },
-          {
-            "label": "Delete contact",
             "url": "https://www.adenin.com/pocdef"
           }
   ]
