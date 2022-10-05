@@ -1,0 +1,12 @@
+{
+  "items": [
+      {
+          "id": "aa11",
+          "description": "💡 Clicking on **Connect to data source** lets you replace this text with live data from one of your apps"
+      },
+      {
+          "id": "bb22",
+          "description": "This description is just static sample data."
+      }
+  ]
+}
