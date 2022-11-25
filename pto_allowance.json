@@ -1,10 +1,22 @@
 {
-  "description": "200 hours total, 80 hours remaining, 12 hours planned",
-  "total_allowance": "200",
-  "charitable_leave_allowance": "8",
-  "remaining_allowance": "80",
-  "planned_allowance": "12",
-  "remaining_public_holiday_count": "16",
+  "already_planned": "16 hours of Annual Leave (Sep 17-Sep 18)",
+  "allowances": [
+    {
+    "name": "Annual Leave",
+    "balance": 40,
+    "accrual_description": "You currently accrue 8.61 hours every two weeks"
+    },
+    {
+    "name": "Bank holidays",
+    "balance": 24,
+    "accrual_description": "Includes remaining public holidays and company-wide days off"
+    },
+    {
+    "name": "Charitable leave",
+    "balance": 16,
+    "accrual_description": "Can be used throughout the year to support any cause close to you"
+    }
+],
   "title": "PTO Request",
   "link": "https://www.adenin.com/pocdef",
   "linkLabel": "Request PTO",
