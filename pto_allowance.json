@@ -9,7 +9,7 @@
     },
     {
     "name": "Bank holidays",
-    "icon_url": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-confetti.png",
+    "icon_url": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-festival.png",
     "balance": 24,
     "accrual_description": "Includes remaining public holidays and company-wide days off"
     },
