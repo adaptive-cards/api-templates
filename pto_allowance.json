@@ -3,16 +3,19 @@
   "allowances": [
     {
     "name": "Annual Leave",
+    "icon_url": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-holiday.svg",
     "balance": 40,
     "accrual_description": "You currently accrue 8.61 hours every two weeks"
     },
     {
     "name": "Bank holidays",
+    "icon_url": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-confetti.svg",
     "balance": 24,
     "accrual_description": "Includes remaining public holidays and company-wide days off"
     },
     {
     "name": "Charitable leave",
+    "icon_url": "https://github.com/adaptive-cards/api-templates/raw/main/images/icons8-welfare.svg",
     "balance": 16,
     "accrual_description": "Can be used throughout the year to support any cause close to you"
     }
