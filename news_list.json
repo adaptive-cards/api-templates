@@ -25,7 +25,7 @@
           "title": "Opening of new logistics and distribution center",
           "path": "https://www.adenin.com/pocdef",
           "created": "2023-03-09T07:15:27Z",
-          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128.jpeg?raw=true"
+          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128-trucks.jpeg?raw=true"
         },
         "createdBy": {
           "user": {
@@ -42,13 +42,13 @@
         "fields": {
           "title": "Introducing Tostr3: Our most advanced bread roaster yet",
           "path": "https://www.adenin.com/pocdef",
-          "created": "2023-03-13T13:35:25Z",
-          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128.png?raw=true"
+          "created": "2023-02-25T06:21:47Z",
+          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128-toaster.png?raw=true"
         },
         "createdBy": {
           "user": {
-            "displayName": "Joane Peters",
-            "email": "joane.peters@toastergroup.com"
+            "displayName": "Maria Noor",
+            "email": "maria.noor@toastergroup.com"
           }
         }
       }
@@ -60,13 +60,13 @@
         "fields": {
           "title": "Toaster Group celebrates opening of new Asia plant",
           "path": "https://www.adenin.com/pocdef",
-          "created": "2023-03-13T13:35:25Z",
-          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128.jpeg?raw=true"
+          "created": "2023-02-21T09:04:31Z",
+          "pictureThumbnailURL": "https://github.com/adaptive-cards/api-templates/blob/main/images/tp1000128-factory.jpeg?raw=true"
         },
         "createdBy": {
           "user": {
-            "displayName": "Joane Peters",
-            "email": "joane.peters@toastergroup.com"
+            "displayName": "Samina Khan",
+            "email": "samina.khan@toastergroup.com"
           }
         }
       }
