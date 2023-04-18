@@ -1,0 +1,75 @@
+{
+  "items": [{
+      "rank": 1,
+      "summary": "With an increasing demand for Toaster products in Europe, we're expanding our operations to the United Kingdom where we're looking to open our first office by Q3 this year.",
+      "resource": {
+        "fields": {
+          "title": "Toaster Inc. opens new office in the UK",
+          "path": "https://www.adenin.com/pocdef",
+          "created": "2023-03-13T13:35:25Z",
+          "pictureThumbnailURL": "https://www.adenin.com/assets/images/bg/office-scene.jpg"
+        },
+        "createdBy": {
+          "user": {
+            "displayName": "Joane Peters",
+            "email": "joane.peters@toastergroup.com"
+          }
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "summary": "Toaster is proud to announce that we now have warehouses on the Western and Eastern Seaboards that provide excellent gateways for products both from Asia and Europe. With our latest expansion we have a new contract logistics facility in Edison, New Jersey.",
+      "resource": {
+        "fields": {
+          "title": "Opening of new logistics and distribution center",
+          "path": "https://www.adenin.com/pocdef",
+          "created": "2023-03-09T07:15:27Z",
+          "pictureThumbnailURL": "https://www.adenin.com/assets/images/bg/office-scene.jpg"
+        },
+        "createdBy": {
+          "user": {
+            "displayName": "James Liu",
+            "email": "james.liu@toastergroup.com"
+          }
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "summary": "Sporting a Space Grey stainless steel shell, and an improved voice assistant, our newest toaster is our smartest invention since sliced bread.",
+      "resource": {
+        "fields": {
+          "title": "Introducing Tostr3: Our most advanced bread roaster yet",
+          "path": "https://www.adenin.com/pocdef",
+          "created": "2023-03-13T13:35:25Z",
+          "pictureThumbnailURL": "https://www.adenin.com/assets/images/bg/office-scene.jpg"
+        },
+        "createdBy": {
+          "user": {
+            "displayName": "Joane Peters",
+            "email": "joane.peters@toastergroup.com"
+          }
+        }
+      }
+    },
+    {
+      "rank": 4,
+      "summary": "This week a brand new plant of Toaster Group Asia was officially opened at Chuansha, Shanghai.",
+      "resource": {
+        "fields": {
+          "title": "Toaster Group celebrates opening of new Asia plant",
+          "path": "https://www.adenin.com/pocdef",
+          "created": "2023-03-13T13:35:25Z",
+          "pictureThumbnailURL": "https://www.adenin.com/assets/images/bg/office-scene.jpg"
+        },
+        "createdBy": {
+          "user": {
+            "displayName": "Joane Peters",
+            "email": "joane.peters@toastergroup.com"
+          }
+        }
+      }
+    }
+  ]
+}
