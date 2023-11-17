@@ -1,0 +1,23 @@
+{
+    "contacts": [
+        {
+            "form-submissions": [
+                {
+                    "title": "Name",
+                    "string": "string",
+                    "email": "test@test.com",
+                    "date": "1999-12-31",
+                    "date-time": "1999-12-31T23:59:59Z",
+                    "date-epoch": "1692274295",
+                    "date-epochLong": "1692274297000",
+                    "int32": 123,
+                    "number": 456.78,
+                    "boolean": true
+                }
+            ]
+        },
+        {
+            "form-submissions": []
+        }
+    ]
+}
