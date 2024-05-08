@@ -3,6 +3,8 @@
       {
         "statusName": "Not Yet Started",
         "activityStatusRecordId": "0810000EE9B14B09A10FFBB972092953",
+        "name": "Reduce Customer Complaints",
+        "score": "0",
         "colorRGBCode": "#ffffff",
         "createAchievement": false,
         "defaultStatus": false,
@@ -16,6 +18,8 @@
       {
         "statusName": "On Target",
         "activityStatusRecordId": "244BBA9DAB0B4079ABC3186BF1EAC38E",
+        "name": "Improve our systems, facilities, and services",
+        "score": "71",
         "colorRGBCode": "#78f73d",
         "createAchievement": false,
         "defaultStatus": true,
@@ -29,6 +33,8 @@
       {
         "statusName": "Off Target",
         "activityStatusRecordId": "F9B98852241340108BEDCEB19416B6BD",
+        "name": "Reimagine and Rearchitect User Experiences",
+        "score": "22",
         "colorRGBCode": "#fc940c",
         "createAchievement": false,
         "defaultStatus": false,
@@ -42,6 +48,8 @@
       {
         "statusName": "Will Not Meet",
         "activityStatusRecordId": "7B36B14AA11842D785448BB26C32EE23",
+        "name": "Improve Customer Satisfaction by 90% by the End of the Year",
+        "score": "11",
         "colorRGBCode": "#f70909",
         "createAchievement": false,
         "defaultStatus": false,
@@ -55,6 +63,8 @@
       {
         "statusName": "No Longer Applicable",
         "activityStatusRecordId": "E609632C040A4696B9BDC22B3D93BAC6",
+        "name": "Build a Competitive Advantage with HXM for How and Where People Work",
+        "score": "57",
         "colorRGBCode": "#cccccc",
         "createAchievement": false,
         "defaultStatus": false,
@@ -68,6 +78,8 @@
       {
         "statusName": "Completed",
         "activityStatusRecordId": "EB4716AA82A34704B0F65F08E685331C",
+        "name": "Improve Customer ARR by 35% by Q4 This Year",
+        "score": "100",
         "colorRGBCode": "#4a97ef",
         "createAchievement": true,
         "defaultStatus": false,
