@@ -1,0 +1,82 @@
+{
+    "value": [
+      {
+        "statusName": "Not Yet Started",
+        "activityStatusRecordId": "0810000EE9B14B09A10FFBB972092953",
+        "colorRGBCode": "#ffffff",
+        "createAchievement": false,
+        "defaultStatus": false,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      },
+      {
+        "statusName": "On Target",
+        "activityStatusRecordId": "244BBA9DAB0B4079ABC3186BF1EAC38E",
+        "colorRGBCode": "#78f73d",
+        "createAchievement": false,
+        "defaultStatus": true,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      },
+      {
+        "statusName": "Off Target",
+        "activityStatusRecordId": "F9B98852241340108BEDCEB19416B6BD",
+        "colorRGBCode": "#fc940c",
+        "createAchievement": false,
+        "defaultStatus": false,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      },
+      {
+        "statusName": "Will Not Meet",
+        "activityStatusRecordId": "7B36B14AA11842D785448BB26C32EE23",
+        "colorRGBCode": "#f70909",
+        "createAchievement": false,
+        "defaultStatus": false,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      },
+      {
+        "statusName": "No Longer Applicable",
+        "activityStatusRecordId": "E609632C040A4696B9BDC22B3D93BAC6",
+        "colorRGBCode": "#cccccc",
+        "createAchievement": false,
+        "defaultStatus": false,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      },
+      {
+        "statusName": "Completed",
+        "activityStatusRecordId": "EB4716AA82A34704B0F65F08E685331C",
+        "colorRGBCode": "#4a97ef",
+        "createAchievement": true,
+        "defaultStatus": false,
+        "deleted": false,
+        "priority": null,
+        "createdBy": "superuser",
+        "createdDate": "2020-03-03",
+        "lastModifiedBy": "superuser",
+        "lastModifiedDate": "2020-03-03"
+      }
+    ]
+  }

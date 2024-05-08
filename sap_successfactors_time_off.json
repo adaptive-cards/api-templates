@@ -1,0 +1,136 @@
+{
+    "value": [
+        {
+          "timeAccount": {
+            "timeAccountType": {
+              "externalCode": "VAC-DAYS",
+              "externalName": "Leave Account for Vacation",
+              "unit": "DAYS"
+            },
+            "externalCode": "92f29d6bfafb40ac8cbca033744f50ad",
+            "bookableStartDate": "2023-01-01",
+            "bookableEndDate": "2024-06-30",
+            "nextTransferDate": null
+          },
+          "balances": {
+            "available": {
+              "value": 23.533,
+              "formattedWithUnit": "23.533 days",
+              "formattedWithUnitRoundedDown": "23.53 days"
+            },
+            "accrued": {
+              "value": 0,
+              "formattedWithUnit": "0 days",
+              "formattedWithUnitRoundedDown": "0 days"
+            },
+            "earned": {
+              "value": 25.033,
+              "formattedWithUnit": "25.033 days",
+              "formattedWithUnitRoundedDown": "25.03 days"
+            },
+            "paidOut": {
+              "value": 0,
+              "formattedWithUnit": "0 days",
+              "formattedWithUnitRoundedDown": "0 days"
+            },
+            "planned": {
+              "value": 0,
+              "formattedWithUnit": "0 days",
+              "formattedWithUnitRoundedDown": "0 days"
+            },
+            "taken": {
+              "value": 1.5,
+              "formattedWithUnit": "1.5 days",
+              "formattedWithUnitRoundedDown": "1.5 days"
+            }
+          }
+        }
+      ],
+    "events": [
+      {
+        "externalCode": "6273b315aafa4e3bb4ca2d8b01997ed6",
+        "title": "VACATION",
+        "startDate": "2024-02-01",
+        "endDate": "2024-02-02",
+        "startTime": null,
+        "endTime": null,
+        "duration": 2,
+        "timeUnit": "DAYS",
+        "durationFormatted": "2 days",
+        "crossMidnight": false,
+        "type": "ABSENCE",
+        "typeFormatted": "Absence",
+        "status": "APPROVED",
+        "statusFormatted": "Approved",
+        "absenceDurationCategory": "MULTI_DAY"
+      },
+      {
+        "externalCode": "g4bxas18712dc43863sc97ww74b76512s",
+        "title": "SICKNESS",
+        "startDate": "2024-03-28",
+        "endDate": "2024-03-28",
+        "startTime": null,
+        "endTime": null,
+        "duration": 1,
+        "timeUnit": "DAYS",
+        "durationFormatted": "1 day",
+        "crossMidnight": false,
+        "type": "ABSENCE",
+        "typeFormatted": "Absence",
+        "status": "APPROVED",
+        "statusFormatted": "Approved",
+        "absenceDurationCategory": "SINGLE_FULL_DAY"
+      },
+      {
+        "externalCode": "f4b7a018788c438687a9787f4b76bb0c",
+        "title": "Good Friday",
+        "startDate": "2024-03-29",
+        "endDate": "2024-03-29",
+        "startTime": null,
+        "endTime": null,
+        "duration": 1,
+        "timeUnit": "DAYS",
+        "durationFormatted": "1 day",
+        "crossMidnight": false,
+        "type": "PUBLIC_HOLIDAY",
+        "typeFormatted": "Public Holiday",
+        "status": null,
+        "statusFormatted": null,
+        "absenceDurationCategory": null
+      },
+      {
+        "externalCode": "f4b7a018788c438687a9787f4b76bb0c",
+        "title": "Easter Monday",
+        "startDate": "2024-04-01",
+        "endDate": "2024-04-01",
+        "startTime": null,
+        "endTime": null,
+        "duration": 1,
+        "timeUnit": "DAYS",
+        "durationFormatted": "1 day",
+        "crossMidnight": false,
+        "type": "PUBLIC_HOLIDAY",
+        "typeFormatted": "Public Holiday",
+        "status": null,
+        "statusFormatted": null,
+        "absenceDurationCategory": null
+      },
+      {
+        "externalCode": "ef3xaf18738c438687a9787f54dst3",
+        "title": "Non Working Day",
+        "startDate": "2024-02-18",
+        "endDate": "2024-02-18",
+        "startTime": null,
+        "endTime": null,
+        "duration": 1,
+        "timeUnit": "DAYS",
+        "durationFormatted": "1 day",
+        "crossMidnight": false,
+        "type": "NON_WORKING_DAY",
+        "typeFormatted": "Non Working Day",
+        "status": null,
+        "statusFormatted": null,
+        "absenceDurationCategory": null
+      }
+    ]
+  }
