@@ -1,0 +1,190 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+      {
+        "type": "Container",
+        "$data": "${items}",
+        "items": [
+          {
+            "type": "ColumnSet",
+            "columns": [
+              {
+                "type": "Column",
+                "width": "stretch",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": "${number}",
+                    "wrap": true,
+                    "isSubtle": true
+                  },
+                  {
+                    "type": "TextBlock",
+                    "text": "${short_description}",
+                    "wrap": true,
+                    "weight": "Bolder",
+                    "spacing": "None"
+                  },
+                  {
+                    "type": "RichTextBlock",
+                    "inlines": [
+                      {
+                        "type": "TextRun",
+                        "text": "${description}"
+                      }
+                    ],
+                    "$when": "${not(empty(description))}",
+                    "spacing": "None"
+                  },
+                  {
+                    "type": "TextBlock",
+                    "$when": "${not(empty(opened_at))}",
+                    "text": "{{DATE(${formatDateTime(opened_at,\u0027yyyy-MM-ddTHH:mm:ssZ\u0027)})}}, {{TIME(${formatDateTime(opened_at,\u0027yyyy-MM-ddTHH:mm:ssZ\u0027)})}}",
+                    "wrap": true,
+                    "spacing": "None",
+                    "isSubtle": true
+                  }
+                ],
+                "backgroundImage": {
+                  "horizontalAlignment": "Right"
+                }
+              },
+              {
+                "type": "Column",
+                "width": "auto",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": "${flag}",
+                    "wrap": true,
+                    "size": "Large"
+                  }
+                ],
+                "verticalContentAlignment": "Center",
+                "$when": "${not(empty(flag))}"
+              },
+              {
+                "type": "Column",
+                "width": "auto",
+                "items": [
+                  {
+                    "type": "TextBlock",
+                    "text": "\u274C",
+                    "wrap": true,
+                    "size": "Default",
+                    "horizontalAlignment": "Center",
+                    "spacing": "Small"
+                  }
+                ],
+                "verticalContentAlignment": "Center",
+                "$when": "${enableDismiss}",
+                "selectAction": {
+                  "type": "Action.Submit",
+                  "id": "dismiss",
+                  "data": {
+                    "id": "${id}"
+                  },
+                  "title": "dismiss"
+                },
+                "backgroundImage": {
+                  "verticalAlignment": "Center",
+                  "horizontalAlignment": "Center"
+                }
+              }
+            ],
+            "selectAction": {
+              "type": "Action.OpenUrl",
+              "url": "${link}"
+            }
+          },
+          {
+            "type": "TextBlock",
+            "text": " \n ",
+            "wrap": true,
+            "separator": true
+          }
+        ],
+        "id": "items_${$index}",
+        "bleed": true
+      },
+      {
+        "type": "Container",
+        "items": [
+          {
+            "type": "TextBlock",
+            "text": "${string(count(items))}",
+            "id": "counter"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.heading}",
+            "id": "heading"
+          },
+          {
+            "type": "TextBlock",
+            "text": "The latest one is \u0027${items[0].short_description}\u0027",
+            "id": "description"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.imageUrl}",
+            "id": "imageUrl"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.buttonLabel}",
+            "id": "buttonLabel"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.buttonUrl}",
+            "id": "buttonUrl"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.buttonLabel2}",
+            "id": "buttonLabel2"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.buttonUrl2}",
+            "id": "buttonUrl2"
+          },
+          {
+            "type": "TextBlock",
+            "text": "${_compact.notify}",
+            "id": "notify"
+          }
+        ],
+        "id": "expressions",
+        "isVisible": false
+      },
+      {
+        "id": "emptystate",
+        "type": "Container",
+        "items": [
+          {
+            "id": "emptyStateImage",
+            "type": "Image",
+            "url": "data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+            "width": "64px",
+            "height": "64px",
+            "style": "Person",
+            "horizontalAlignment": "Center",
+            "spacing": "None"
+          },
+          {
+            "id": "emptyStateDescription",
+            "type": "TextBlock",
+            "text": null,
+            "wrap": true
+          }
+        ],
+        "horizontalAlignment": "Center",
+        "$when": "${count(items)==0}"
+      }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.2"
+  }
+  
