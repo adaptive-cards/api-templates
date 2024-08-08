@@ -1,24 +1,37 @@
-{  "items": [{
-    "employeeId": "4789654",
-    "companyId": "100",
-    "ptoPlan": "Annual Leave",
-    "earned": 112,
-    "taken": 68,
-    "pendingBalance": 8,
-    "earnedThroughDate": "2024-08-08T11:46:30+00:00",
-    "reset": "2024-12-31T23:59:59+00:00",
-    "pendingMoveDate": "2024-12-31T23:59:59+00:00"
-  },
 {
-    "employeeId": "4789654",
-    "companyId": "100",
-    "ptoPlan": "Charitable Leave",
-    "earned": 24,
-    "taken": 0,
-    "pendingBalance": 0,
-    "earnedThroughDate": "2024-08-08T11:46:30+00:00",
-    "reset": "2024-12-31T23:59:59+00:00",
-    "pendingMoveDate": "2024-12-31T23:59:59+00:00"
-  }
+    "items": [
+    {
+      "employeeId": "E12345",
+      "companyId": "TC123",
+      "ptoPlan": "Vacation",
+      "earned": 80,
+      "taken": 27.30,
+      "pendingBalance": 0,
+      "earnedThroughDate": "2023-12-10",
+      "reset": "2024-01-01",
+      "pendingMoveDate": "2023-12-31"
+    },
+    {
+      "employeeId": "E12345",
+      "companyId": "TC123",
+      "ptoPlan": "Sick Leave",
+      "earned": 40,
+      "taken": 8,
+      "pendingBalance": 0,
+      "earnedThroughDate": "2023-12-10",
+      "reset": "2024-01-01",
+      "pendingMoveDate": "2023-12-31"
+    },
+    {
+      "employeeId": "E12345",
+      "companyId": "TC123",
+      "ptoPlan": "Personal Time",
+      "earned": 20,
+      "taken": 5,
+      "pendingBalance": 0,
+      "earnedThroughDate": "2023-12-10",
+      "reset": "2024-01-01",
+      "pendingMoveDate": "2023-12-31"
+    }
   ]
-  }
+}
