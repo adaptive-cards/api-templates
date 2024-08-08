@@ -1,0 +1,24 @@
+{  "items": [{
+    "employeeId": "4789654",
+    "companyId": "100",
+    "ptoPlan": "Annual Leave",
+    "earned": 112,
+    "taken": 68,
+    "pendingBalance": 8,
+    "earnedThroughDate": "2024-08-08T11:46:30+00:00",
+    "reset": "2024-12-31T23:59:59+00:00",
+    "pendingMoveDate": "2024-12-31T23:59:59+00:00"
+  },
+{
+    "employeeId": "4789654",
+    "companyId": "100",
+    "ptoPlan": "Charitable Leave",
+    "earned": 24,
+    "taken": 0,
+    "pendingBalance": 0,
+    "earnedThroughDate": "2024-08-08T11:46:30+00:00",
+    "reset": "2024-12-31T23:59:59+00:00",
+    "pendingMoveDate": "2024-12-31T23:59:59+00:00"
+  }
+  ]
+  }

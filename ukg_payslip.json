@@ -1,0 +1,159 @@
+[
+    {
+      "accruals": [
+        {
+          "amountcurrent": 40,
+          "amounttype": "hours",
+          "balance": 80,
+          "plancode": "VAC",
+          "plandescription": "Vacation"
+        }
+      ],
+      "addressline1": "123 Main St",
+      "addressline2": "Apt 4B",
+      "city": "New York",
+      "companyaddresscity": "New York",
+      "companyaddresscountry": "USA",
+      "companyaddresscounty": "New York County",
+      "companyaddressline1": "456 Corporate Blvd",
+      "companyaddressline2": "",
+      "companyaddresspostalcode": "10001",
+      "companyaddressstateorprovince": "NY",
+      "companyname": "TechCorp Inc.",
+      "companyphone": "555-123-4567",
+      "companyphoneext": "123",
+      "country": "USA",
+      "deductions": [
+        {
+          "basisamount": 4782.31,
+          "deductioncode": "401K",
+          "deductiondescription": "401(k)",
+          "employeeamount": 551.06,
+          "employeeamountytd": 551.06,
+          "employeramount": 0,
+          "employeramountytd": 0,
+          "pretax": true
+        },
+        {
+          "basisamount": 4782.31,
+          "deductioncode": "CS1",
+          "deductiondescription": "Child Support 1",
+          "employeeamount": 500.00,
+          "employeeamountytd": 500.00,
+          "employeramount": 0,
+          "employeramountytd": 0,
+          "pretax": false
+        },
+        {
+          "basisamount": 4782.31,
+          "deductioncode": "DENTAL",
+          "deductiondescription": "Dental Plan",
+          "employeeamount": 26.00,
+          "employeeamountytd": 26.00,
+          "employeramount": 0,
+          "employeramountytd": 0,
+          "pretax": true
+        },
+        {
+          "basisamount": 4782.31,
+          "deductioncode": "DCFSA",
+          "deductiondescription": "Dependent Care FSA",
+          "employeeamount": 75.00,
+          "employeeamountytd": 75.00,
+          "employeramount": 0,
+          "employeramountytd": 0,
+          "pretax": true
+        },
+        {
+          "basisamount": 4782.31,
+          "deductioncode": "HCFSA",
+          "deductiondescription": "Health Care FSA",
+          "employeeamount": 75.00,
+          "employeeamountytd": 75.00,
+          "employeramount": 0,
+          "employeramountytd": 0,
+          "pretax": true
+        }
+      ],
+      "deductionscurrent": 1227.06,
+      "deductionsytd": 1227.06,
+      "document": "payslip_2023-12-10.pdf",
+      "earnings": [
+        {
+          "amount": 4782.31,
+          "amountytd": 4782.31,
+          "hours": 80,
+          "hoursytd": 80,
+          "paycode": "REG",
+          "paydescription": "Regular Pay",
+          "payrate": 59.78,
+          "periodend": "2023-12-10T00:00:00.000Z",
+          "periodstart": "2023-12-04T00:00:00.000Z",
+          "piececount": 0,
+          "piecepayrate": 0
+        }
+      ],
+      "employeeidentifier": {
+        "identificationtype": "SSN",
+        "companyidentifier": "TC123",
+        "employeeidentifier": "E12345"
+      },
+      "employeenumber": "E12345",
+      "federaladditionalamountWithheld": 0,
+      "federalallowancesclaimed": 1,
+      "federalfilingstatus": "Single",
+      "federaltaxablewagescurrent": 4782.31,
+      "federaltaxablewagesytd": 4782.31,
+      "fullname": "John Doe",
+      "grosswagescurrent": 4782.31,
+      "grosswagesytd": 4782.31,
+      "job": "Software Engineer",
+      "location": "Headquarters",
+      "netpay": [
+        {
+          "accountnumber": "987654321",
+          "accounttype": "Checking",
+          "amount": 2007.95
+        }
+      ],
+      "netpaycurrent": 2007.95,
+      "netpayytd": 2007.95,
+      "orglevel1": "Engineering",
+      "orglevel2": "Software",
+      "orglevel3": "Development",
+      "orglevel4": "Team A",
+      "paydate": "2023-12-10T00:00:00.000Z",
+      "payperiodfrequency": "Bi-Weekly",
+      "paygroup": "FT",
+      "payidentifier": "2023-12-10",
+      "payrate": 59.78,
+      "periodenddate": "2023-12-10T00:00:00.000Z",
+      "periodstartdate": "2023-12-04T00:00:00.000Z",
+      "postalcode": "10001",
+      "residentstateallowancesclaimed": 1,
+      "residentstatefilingstatus": "Single",
+      "ssn": "123-45-6789",
+      "stateorprovince": "NY",
+      "taxes": [
+        {
+          "amount": 500,
+          "amountytd": 500,
+          "basisamount": 4782.31,
+          "taxdescription": "Federal Tax",
+          "taxcode": "FED"
+        },
+        {
+          "amount": 150,
+          "amountytd": 150,
+          "basisamount": 4782.31,
+          "taxdescription": "State Tax",
+          "taxcode": "STATE"
+        }
+      ],
+      "taxescurrent": 650,
+      "taxesytd": 650,
+      "workstateallowancesclaimed": 1,
+      "workstatefilingstatus": "Single"
+    }
+  ]
+  
